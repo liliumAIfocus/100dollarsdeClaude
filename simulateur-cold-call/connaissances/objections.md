@@ -4,6 +4,38 @@
 
 Rappel de la méthode en 4 temps : **accueillir → creuser → répondre → vérifier**, puis relancer vers le rendez-vous.
 
+Ne cite jamais de clients, de chiffres ou d'observations que tu n'as pas : un bluff découvert met fin à l'appel.
+
+## Spécial artisans (sites web)
+Les objections que les artisans sortent le plus quand on leur parle de site. Elles s'ajoutent aux autres.
+
+### « J'ai déjà assez de travail. »
+L'objection numéro un. Souvent vraie, mais rarement toute l'année.
+- **Creuser** (objectif : trouver les mois calmes) : « Tant mieux ! Et c'est le cas toute l'année, ou il y a des périodes plus calmes ? »
+- **Choisir ses chantiers** (objectif : passer de « plus de travail » à « de meilleurs chantiers ») : « Justement, un site sert aussi à choisir : plus de chantiers qui vous plaisent, moins de petits dépannages. Vous aimeriez faire plus de quoi ? »
+- **Anticiper** (objectif : un rendez-vous sans urgence) : « Le meilleur moment pour préparer un site, c'est quand on a du travail, pas quand c'est calme. Quinze minutes pour voir la maquette : mardi 8 h ou jeudi 18 h ? »
+
+### « Le bouche-à-oreille me suffit. »
+- **Valoriser** (objectif : désamorcer) : « C'est la meilleure des publicités : ça veut dire que vous travaillez bien. »
+- **Creuser** (objectif : faire apparaître la faille) : « Et quand quelqu'un vous recommande, qu'est-ce que la personne fait avant de vous appeler ? » Souvent, elle cherche son nom sur Google.
+- **Compléter** (objectif : présenter le site comme un renfort, pas comme un remplaçant) : « Un site ne remplace pas le bouche-à-oreille, il le confirme : la personne qu'on vous a recommandée vous cherche, voit vos réalisations et vous appelle en confiance. »
+
+### « J'ai déjà une page Facebook » ou « Mon neveu m'a fait un site. »
+- **Respecter** (objectif : ne pas le vexer) : « C'est bien d'avoir déjà quelque chose, beaucoup d'artisans n'ont rien. »
+- **Creuser** (objectif : savoir si ça lui amène vraiment des clients) : « Et ça vous amène des demandes de devis, concrètement ? À peu près combien par mois ? »
+- **Comparer sans dénigrer** (objectif : un rendez-vous pour comparer) : « Je peux vous montrer à quoi ressemblerait une version pensée pour être trouvée sur Google. Vous comparerez, et si celle de votre neveu fait mieux, gardez-la. »
+
+### « Je me suis déjà fait avoir par une agence web. »
+Fréquent : beaucoup d'artisans ont signé des contrats de location de site sur plusieurs années.
+- **Comprendre** (objectif : connaître son histoire) : « Malheureusement, ça arrive souvent. Qu'est-ce qui s'est passé ? »
+- **Rassurer par les faits** (objectif : se différencier sans dénigrer) : « Chez moi, pas de contrat de location : le site vous appartient, et l'abonnement est sans engagement. »
+- **Zéro risque** (objectif : un rendez-vous sans pression) : « Justement, je ne vous demande que 15 minutes pour regarder une maquette gratuite. Si elle ne vous plaît pas, on en reste là. »
+
+### « Je suis sur un chantier, rappelez-moi. »
+- **Dater tout de suite** (objectif : un vrai rappel, pas un « plus tard » vague) : « Bien sûr. Ce soir 18 h ou demain 8 h ? »
+- **Une phrase pour accrocher** (objectif : qu'il ait envie de décrocher la prochaine fois) : « Je vous rappelle. En une phrase : c'est au sujet des clients qui vous cherchent sur Google sans vous trouver. Ce soir 18 h, ça vous va ? »
+- **Garder le contact** (objectif : ne pas disparaître s'il est vraiment pris) : « Je vous envoie un SMS avec mon nom, et je vous rappelle demain à 8 h. »
+
 ## Les rejets réflexes (souvent dans les 30 premières secondes)
 
 ### « Je n'ai pas le temps. »
@@ -40,7 +72,7 @@ C'est un test : il veut savoir si ça vaut le coup d'écouter.
 
 ### « On a déjà un prestataire » ou « On a déjà quelqu'un. »
 - **Respecter, puis creuser** (objectif : trouver la frustration) : « C'est bien d'avoir quelqu'un de confiance. Si vous pouviez améliorer une chose dans ce qu'il fait, ce serait quoi ? »
-- **Deuxième avis** (objectif : un rendez-vous sans menace) : « Je ne vous demande pas de changer. Beaucoup de mes clients avaient déjà quelqu'un et voulaient simplement un regard extérieur. Vingt minutes pour comparer ? »
+- **Deuxième avis** (objectif : un rendez-vous sans menace) : « Je ne vous demande pas de changer. Je vous propose simplement un regard extérieur : vingt minutes pour comparer ? »
 - **Échéance** (objectif : découvrir une fenêtre d'opportunité) : « Vous êtes engagé avec eux jusqu'à quand ? »
 
 ### « On fait ça en interne. »
@@ -51,7 +83,7 @@ C'est un test : il veut savoir si ça vaut le coup d'écouter.
 ### « Tout va bien comme ça. »
 - **Curiosité** (objectif : le faire parler) : « Tant mieux. Qu'est-ce qui marche le mieux, selon vous ? »
 - **Projection** (objectif : ouvrir sur l'avenir) : « Et dans un an, qu'est-ce qui devra marcher encore mieux ? »
-- **Comparaison** (objectif : semer une question) : « D'autres [type de clients] me disaient la même chose, jusqu'à ce qu'ils découvrent [résultat]. Vous savez où vous en êtes là-dessus ? »
+- **Comparaison** (objectif : semer une question) : « Beaucoup de [type de clients] pensent la même chose, jusqu'au jour où [problème]. Vous savez où vous en êtes là-dessus ? »
 
 ## L'argent
 
@@ -75,7 +107,7 @@ C'est un test : il veut savoir si ça vaut le coup d'écouter.
 ### « On a déjà essayé, ça ne marche pas. »
 - **Comprendre** (objectif : connaître la mauvaise expérience) : « Qu'est-ce qui n'a pas marché, exactement ? »
 - **Reconnaître** (objectif : désamorcer la méfiance) : « Je comprends que vous soyez méfiant, c'est normal après ça. Qu'est-ce qu'il aurait fallu pour que ça marche ? »
-- **Se différencier sans dénigrer** (objectif : une preuve plutôt qu'une promesse) : « Je ne vais pas vous promettre la lune. Je peux vous montrer ce qu'on a fait pour [client similaire], et vous jugerez. »
+- **Se différencier sans dénigrer** (objectif : une preuve plutôt qu'une promesse) : « Je ne vais pas vous promettre la lune. Je vous montre [une preuve vraie : une réalisation, une maquette, une démo], et vous jugerez. »
 
 ### « Comment avez-vous eu mon numéro ? »
 - **Honnêteté** (objectif : rassurer en dix secondes) : « Sur [source réelle : site web, annuaire professionnel…]. Si vous préférez que je ne vous rappelle plus, je le note, bien sûr. »
@@ -84,7 +116,7 @@ C'est un test : il veut savoir si ça vaut le coup d'écouter.
 
 ### « Vous êtes qui, exactement ? » ou « Je ne vous connais pas. »
 - **Clarté** (objectif : se présenter en une phrase) : « [Prénom], de [Entreprise]. On aide les [type de clients] à [résultat]. »
-- **Preuve sociale** (objectif : crédibiliser) : « On travaille déjà avec [type de clients similaires] dans votre secteur. »
+- **Preuve** (objectif : crédibiliser) : « [Une preuve vraie : une réalisation, un avis client, ce que tu fais de différent]. » Si tu démarres, montre une maquette ou un exemple plutôt que des chiffres que tu n'as pas.
 - **Transparence** (objectif : créer de la confiance) : « Vous ne me connaissez pas, c'est normal, c'est un premier appel. C'est pour ça que je préfère vous poser des questions plutôt que de vous vendre quelque chose. »
 
 ## La décision et le timing
@@ -105,7 +137,7 @@ C'est un test : il veut savoir si ça vaut le coup d'écouter.
 - **Petit pas** (objectif : rester présent sans forcer) : « Je comprends. Je vous propose simplement 15 minutes pour que vous ayez les éléments le jour où ce sera le moment. Ça vous va ? »
 
 ## Mode « Entraînement objections »
-1. Choisis 5 objections adaptées à mon offre et à ma cible, dans des catégories différentes, de plus en plus difficiles. À partir de la 4e, combine parfois deux objections (« C'est trop cher, et de toute façon on a déjà quelqu'un »).
+1. Choisis 5 objections adaptées à mon offre et à ma cible, dans des catégories différentes, de plus en plus difficiles, dont au moins 2 de la section « Spécial artisans » quand elle correspond à ma cible. À partir de la 4e, combine parfois deux objections (« C'est trop cher, et de toute façon on a déjà quelqu'un »).
 2. Pour chaque objection, dis seulement l'objection, comme un prospect, en une phrase. J'y réponds.
 3. Puis, en coach, en 4 phrases au maximum à l'oral :
    - une note sur 5 : accueil sans contrer (1 point), question pour creuser (1), réponse pertinente et courte (1), vérification ou relance (1), ton naturel et assuré (1) ;

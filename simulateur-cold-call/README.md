@@ -7,16 +7,17 @@ Tout se passe dans claude.ai, en mode vocal : pas d'appli, pas de clé API, rien
 ## Ce que contient le kit
 ```
 simulateur-cold-call/
-├── README.md                ← ce mode d'emploi
-├── instructions-projet.md   ← à coller dans « Instructions du projet »
-└── connaissances/           ← les 7 fichiers à ajouter au projet
-    ├── mon-offre.md         ← à remplir : ce que tu vends, à qui
-    ├── parcours.md          ← les 6 étapes pour progresser
-    ├── methode.md           ← les bases que le coach t'enseigne
-    ├── prospects.md         ← les 10 profils de prospects et les 3 barrages (secret)
-    ├── variantes.md         ← humeurs, cartes secrètes, niveaux (secret)
-    ├── objections.md        ← les objections et les façons d'y répondre
-    └── grille-debrief.md    ← la notation et les débriefs
+├── README.md                    ← ce mode d'emploi
+├── instructions-projet.md       ← le texte court à coller dans « Instructions du projet »
+└── connaissances/               ← les 8 fichiers à importer dans le projet
+    ├── regles-du-simulateur.md  ← toutes les règles du prospect et du coach
+    ├── mon-offre.md             ← ce que tu vends et à qui (déjà remplie : sites web pour artisans)
+    ├── parcours.md              ← les 6 étapes pour progresser
+    ├── methode.md               ← les bases que le coach t'enseigne (version artisans)
+    ├── prospects.md             ← les 10 profils de prospects et les 3 barrages (secret)
+    ├── variantes.md             ← humeurs, cartes secrètes, niveaux (secret)
+    ├── objections.md            ← les objections et les façons d'y répondre
+    └── grille-debrief.md        ← la notation et les débriefs
 ```
 
 ## Pourquoi Claude ne sera pas complaisant
@@ -26,11 +27,12 @@ simulateur-cold-call/
 
 ## Installation (5 minutes)
 1. Sur claude.ai, ouvre **Projets**, puis **Créer un projet**, et nomme-le « Simulateur cold call ».
-2. Dans **Instructions du projet**, colle tout le contenu de `instructions-projet.md`.
-3. Ouvre `connaissances/mon-offre.md` et remplace chaque `[à remplir]` (il y a un exemple rempli plus bas).
-4. Ajoute les 7 fichiers du dossier `connaissances/` aux **connaissances du projet**.
+2. Dans **Instructions du projet**, colle le texte de `instructions-projet.md`. Il est court exprès : un long texte collé peut être coupé sans prévenir.
+3. **Importe les 8 fichiers** du dossier `connaissances/` dans les **connaissances du projet**. Importe les fichiers eux-mêmes, sans recopier leur contenu à la main.
+4. `mon-offre.md` est déjà remplie pour la vente de sites web aux artisans. Si tu vends autre chose, remplace chaque champ par ta réponse (il y a un autre exemple rempli plus bas).
 5. Dans **Réglages → Général → Voix → Langue**, choisis **Français**.
 6. Choisis le modèle **Opus** (le plus fidèle au rôle) ou **Sonnet** (plus rapide, et il consomme moins tes limites). Évite Haiku : il tient moins bien un rôle exigeant.
+7. **Vérifie l'installation.** Ouvre une nouvelle conversation dans le projet et écris « Vérifie l'installation ». Claude doit voir les 8 fichiers et confirmer que `regles-du-simulateur.md` se termine par la ligne « Fin des règles du simulateur. ». Si un fichier manque ou est coupé, supprime-le du projet et réimporte-le.
 
 > Pour garder la surprise, ne lis pas `prospects.md` ni `variantes.md` : ce sont les fiches secrètes des prospects.
 
@@ -62,6 +64,7 @@ Pendant un appel, les commandes commencent par **« Coach »**. Tout le reste es
 
 | Tu dis | Ce qui se passe |
 |---|---|
+| « Vérifie l'installation » | Claude vérifie que les 8 fichiers sont là et complets |
 | « Première séance » | Accueil guidé : les bases, ta trame, une démo |
 | « Nouvel appel, étape 2 » | Le coach choisit un prospect adapté à ton étape. Le prospect décroche. |
 | « Nouvel appel, code 4-7-2, niveau 3 » | Prospect tiré au sort par le code, au niveau choisi |
@@ -95,23 +98,23 @@ Hors appel, tu peux parler librement au coach. Par exemple, raconte-lui un vrai 
 ## Dépannage
 | Problème | Solution |
 |---|---|
+| Claude dit qu'un fichier manque, ou ne connaît pas une règle (mode guidé, commandes…) | Écris « Vérifie l'installation », puis réimporte le fichier manquant ou coupé. |
 | Le prospect est trop gentil ou accepte trop vite | « Coach, plus dur ». Vérifie que tu es sur Opus ou Sonnet. Ouvre une nouvelle conversation. |
 | Il sort du personnage ou commente l'appel | « Reste dans le personnage. » |
 | Il lit des astérisques ou des didascalies | « Rappel : tout ce que tu écris est lu à voix haute, pas de didascalies. » |
 | Il te coupe trop vite | Passe en appui pour parler. |
 | Il ne réagit pas à une commande | Redis-la lentement, ou tape-la. |
 | Il mélange les appels ou oublie des règles | La conversation est trop longue : ouvre-en une nouvelle à chaque séance. |
-| Le champ « Instructions du projet » refuse le texte | Ajoute `instructions-projet.md` aux connaissances du projet, et écris seulement ceci dans le champ : « Suis à la lettre les instructions du fichier instructions-projet.md. » |
 | Le mode vocal ne semble pas suivre le projet | Utilise le plan B ci-dessous. |
 
 ## Plan B : sans projet
 1. Ouvre une conversation normale, hors projet.
-2. Joins `instructions-projet.md` et les 7 fichiers de `connaissances/`.
-3. Écris : « Ces fichiers sont tes instructions pour toute cette conversation. Confirme en une phrase, puis attends ma commande. »
+2. Joins les 8 fichiers de `connaissances/`.
+3. Colle le texte de `instructions-projet.md`, puis ajoute : « Confirme en une phrase, puis attends ma commande. »
 4. Passe en vocal.
 
-## Exemple de fiche « mon offre » remplie
-(Exemple inventé, chiffres compris.)
+## Un autre exemple de fiche « mon offre »
+Pour une offre différente (exemple inventé, chiffres compris) :
 - Mon prénom et le nom que j'annonce au téléphone : Lucas, de RDV Facile
 - En une phrase : un logiciel de prise de rendez-vous en ligne pour les cabinets de kinésithérapie
 - Le problème que ça résout : le secrétariat passe des heures au téléphone, et les rendez-vous non honorés font perdre de l'argent
@@ -125,6 +128,7 @@ Hors appel, tu peux parler librement au coach. Par exemple, raconte-lui un vrai 
 - Les objections que je redoute : « On a déjà un logiciel », « On n'a pas le temps de changer »
 
 ## Personnaliser
+- **Les règles du prospect et du coach :** `regles-du-simulateur.md`.
 - **Ajouter tes propres objections :** complète `objections.md` avec les phrases que tu entends en vrai.
 - **Changer la difficulté :** les seuils et les jauges de départ sont dans le tableau des niveaux de `variantes.md`.
 - **Ajouter un profil de prospect :** copie la structure d'un profil de `prospects.md`.
